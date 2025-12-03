@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Vijay Reuben Srinivasan - Robotics Engineer CV</title>
+
+    <meta name="description" content="Robotics and Automation Engineer skilled in designing automated systems, virtual commissioning, digital twin technology, MATLAB, and PLC programming.">
+    <meta name="keywords" content="Robotics Engineer, Automation, Digital Twin, Virtual Commissioning, MATLAB, RobotStudio, TwinCAT 3, PLC Programming, QA, Bangalore">
+    <meta name="author" content="Vijay Reuben Srinivasan">
+
+    <meta property="og:title" content="Vijay Reuben Srinivasan - Robotics Engineer">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.linkedin.com/in/vijay-reuben-srinivasan-6b8b98156">
+    <meta property="og:image" content="profile.jpg">
+    <meta property="og:description" content="Robotics and Automation Engineer skilled in designing automated systems and virtual commissioning.">
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+    <header>
+        <h1>Vijay Reuben Srinivasan</h1>
+        <p><strong>Robotics Engineer</strong></p>
+        <address>
+            Bangalore, Karnataka <br>
+            <a href="tel:+918618277823">+91 861 827 7823</a> <br>
+            <a href="mailto:vijayreuben@yahoo.in">vijayreuben@yahoo.in</a> <br>
+            <a href="https://linkedin.com/in/vijay-reuben-srinivasan-6b8b98156" target="_blank">LinkedIn Profile</a>
+        </address>
+    </header>
+
+    <hr>
+
+    <main>
+
+        <section id="summary">
+            <h2>Professional Summary</h2>
+            <p>
+                Robotics and Automation Engineer with a Master's degree in Robotics and Automation. 
+                Skilled in designing automated systems, virtual commissioning, and digital twin technology. 
+                Proficient in MATLAB, RobotStudio, TwinCAT 3, and PLC programming. 
+                Experienced in troubleshooting, quality assurance, and compliance testing.
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="experience">
+            <h2>Work Experience</h2>
+
+            <article>
+                <h3>Degree Project</h3>
+                <p><strong>GKN Aerospace Engine Systems, Sweden</strong> | <time datetime="2024-02">02/2024</time> - <time datetime="2024-05">05/2024</time></p>
+                <p>
+                    My thesis at GKN focuses on using digital twin technology and virtual commissioning to optimize manufacturing efficiency, improve maintenance, reduce downtime, and provide strategic recommendations for maximizing automation benefits.
+                </p>
+            </article>
+
+            <article>
+                <h3>Student Intern - Robot Cell Design</h3>
+                <p><strong>Brålanda Industri AB, Sweden</strong> | <time datetime="2023-11">11/2023</time> - <time datetime="2023-12">12/2023</time></p>
+                <ul>
+                    <li>The company's facility was analyzed to identify process improvements and employee challenges.</li>
+                    <li>A portable robotic cell for metal bending was designed with upgrade provisions, refined through stakeholder feedback.</li>
+                    <li>Simulations were conducted in ABB RobotStudio and TwinCAT 3 PLC, connected via OPC UA.</li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>Certification Tester</h3>
+                <p><strong>Keywords Studio, Bangalore, Karnataka</strong> | <time datetime="2022-04">04/2022</time> - <time datetime="2022-08">08/2022</time></p>
+            </article>
+
+            <article>
+                <h3>Senior Compliance Test Engineer</h3>
+                <p><strong>Pole to Win, Bangalore, Karnataka</strong> | <time datetime="2021-01">01/2021</time> - <time datetime="2021-11">11/2021</time></p>
+            </article>
+
+            <article>
+                <h3>Functional Test Engineer</h3>
+                <p><strong>Pole to Win, Bangalore, Karnataka</strong> | <time datetime="2020-01">01/2020</time> - <time datetime="2020-12">12/2020</time></p>
+            </article>
+
+            <article>
+                <h3>Associate Test Engineer</h3>
+                <p><strong>Pole to Win, Bangalore, Karnataka</strong> | <time datetime="2018-08">08/2018</time> - <time datetime="2019-12">12/2019</time></p>
+            </article>
+        </section>
+
+        <hr>
+
+        <section id="education">
+            <h2>Education</h2>
+            <article>
+                <h3>Masters in Robotics and Automation</h3>
+                <p>Högskolan Väst</p>
+            </article>
+            <article>
+                <h3>Bachelor of Engineering in Computer Science and Programming</h3>
+                <p>PNS Institute of Technology</p>
+            </article>
+        </section>
+
+        <hr>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>Automation & Robotics:</strong> MATLAB, RobotStudio, TwinCat3, MIR programming, Rapid Programming, URScript, Robotics, SCADA, HMI, Automation</li>
+                <li><strong>Connectivity & Hardware:</strong> OPC-UA, TCP/IP, REST API, PC Hardware Knowledge</li>
+                <li><strong>QA & Testing:</strong> Manual Test Case Preparation, Bug Tracking, Defect Monitoring, Issue Resolution, Comprehensive/Concise Bug Writing, Sony PS4/PS5 Compliance Checks, Testing and Troubleshooting</li>
+                <li><strong>General:</strong> Data Collection and Analysis, Interpersonal Communication, Quality Assurance and Control</li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section id="awards">
+            <h2>Awards & Scholarships</h2>
+            <ul>
+                <li>Certificate of Appreciation: For outstanding performance - Pole to Win</li>
+                <li>Certificate of Appreciation: For excellent performance - Pole to Win</li>
+            </ul>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Vijay Reuben Srinivasan</p>
+    </footer>
+
+</body>
+</html>
