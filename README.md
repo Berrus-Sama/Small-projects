@@ -1,3 +1,2 @@
-[# Small-projects
-
-](https://roadmap.sh/projects/single-page-cv)
+[# Small-projects]
+https://roadmap.sh/projects/single-page-cv
